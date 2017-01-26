@@ -6,7 +6,7 @@
 Given a series of chords (text string) and a capo value (integer) translate the chords to the correct key.
 Example: The chord series "G Am C D" with a capo value of 2 would be "A Bm D E"
 
-Use Bootstrao as a CSS framework and Angular as your MVC framework.
+Use Bootstrap (3.x) as a CSS framework and Angular (v 1.x) as your MVC framework.
 
 ## The notes of the chromatic scale
 
@@ -26,10 +26,14 @@ Chords are always written with the NOTE first, then any modifiers afterwards.
 ### Other modifiers
 These do not affect the key, but it is important that they are preserved in the translation. 
 
-"m" = mino.; ex: C#m
+"m" = minor. ex: C#m
+
 "m7" = minor seventh. ex: Dm7
+
 "M7" = major seventh. ex: CM7
+
 "5" = fifth. ex: A5
+
 "7" = dominant seventh. ex. F7
 
 ## Capo
