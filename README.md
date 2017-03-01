@@ -46,7 +46,11 @@ Capo 2 means two half steps (i.e. one whole step) up, etc.
 Capo 0 means NO change - the chord string should remain unchanged
 
 
+## Examples
 
+"G Am C D" with a capo value of 2 => "A Bm D E"
+"DM7 Em A#7 A7" with capo 1 => "D#M7 Fm B7 A#7"
+"C Dm G" with capo 4 => "E F#m B"
 
 
 
