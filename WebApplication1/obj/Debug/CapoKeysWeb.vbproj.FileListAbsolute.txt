@@ -7,3 +7,13 @@
 \\Mac\Home\Dev\CapoKeys\CapoKeys\WebApplication1\obj\Debug\WebApplication1.dll
 \\Mac\Home\Dev\CapoKeys\CapoKeys\WebApplication1\obj\Debug\WebApplication1.xml
 \\Mac\Home\Dev\CapoKeys\CapoKeys\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Work\CapoKeys\WebApplication1\bin\WebApplication1.dll.config
+C:\Work\CapoKeys\WebApplication1\bin\WebApplication1.dll
+C:\Work\CapoKeys\WebApplication1\bin\WebApplication1.pdb
+C:\Work\CapoKeys\WebApplication1\bin\WebApplication1.xml
+C:\Work\CapoKeys\WebApplication1\obj\Debug\CapoKeysWeb.vbprojResolveAssemblyReference.cache
+C:\Work\CapoKeys\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Work\CapoKeys\WebApplication1\obj\Debug\CapoKeysWeb.vbproj.GenerateResource.Cache
+C:\Work\CapoKeys\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Work\CapoKeys\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Work\CapoKeys\WebApplication1\obj\Debug\WebApplication1.pdb
